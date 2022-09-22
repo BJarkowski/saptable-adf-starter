@@ -125,7 +125,7 @@
                             "properties": {     
                                 "storageKey": "?",
                                 "storageKeyType": "SharedAccessKey",                                                           
-                                "storageUri": "https://bjsapublic.blob.core.windows.net/public/db.bacpac",
+                                "storageUri": "https://mppublicstorage.blob.core.windows.net/publicsap/db.bacpac",
                                 "administratorLogin": "[parameters('databaseAdminUsername')]",
                                 "administratorLoginPassword": "[parameters('databaseAdminPassword')]",
                                 "operationMode": "Import"
